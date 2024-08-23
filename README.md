@@ -8,23 +8,6 @@ This project implements a deep learning model for gender classification using a 
 - Implements data augmentation techniques for improved generalization
 - Achieves high accuracy in gender classification
 
-## Requirements
-- Python 3.x
-- PyTorch
-- torchvision
-- matplotlib
-- scikit-learn
-- numpy
-- PIL
-
-## Dataset
-The dataset is organized into three subsets:
-- Training set: `/kaggle/input/gender-classification/Gender Dataset/train`
-- Validation set: `/kaggle/input/gender-classification/Gender Dataset/valid`
-- Test set: `/kaggle/input/gender-classification/Gender Dataset/test`
-
-Each subset contains images categorized into "Male" and "Female" classes.
-
 ## Setup and Installation
 1. Clone this repository:
    ```
